@@ -1,1 +1,1 @@
-Click here to see my online resume : 
+Click on this link to see my online personal resume : https://alexclusive.github.io/Resume/
